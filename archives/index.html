@@ -4,18 +4,18 @@
       <meta charset="UTF-8"/>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="keywords" content="Gridea静态个人博客">
+<meta name="keywords" content="">
 <meta name="description" content="学而时习之，不亦说乎！">
-<meta name="theme-color" content="#000">
+<meta name="theme-color" content="">
 <title>Adoli</title>
-<link rel="shortcut icon" href="/favicon.ico?v=1586175686878">
+<link rel="shortcut icon" href="/favicon.ico?v=1586176931348">
 <link rel="stylesheet" href="/styles/main.css">
-<link rel="stylesheet" href="/media/css/mist.css">
+<link rel="stylesheet" href="/media/css/pisces.css">
 
 <link rel="stylesheet" href="/media/fonts/font-awesome.css">
 <link href="//fonts.googleapis.com/css?family=Monda:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Rosario:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
-<link href="/media/hljs/styles/androidstudio.css" rel="stylesheet">  
+<link href="/media/hljs/styles/github.css" rel="stylesheet">  
 
 <script src="/media/hljs/highlight.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/velocity-animate@1.5.0/velocity.min.js"></script>
@@ -33,8 +33,8 @@
     <div class="head-top-line"></div>
     <div class="header-box">
       
-<div class=" mist">
-  <header class="header bg-color ">
+<div class=" ">
+  <header class="header  ">
     <div class="blog-header box-shadow-wrapper  " id="header">
       <div class="nav-toggle" id="nav_toggle">
         <div class="toggle-box">
@@ -46,14 +46,8 @@
       <div class="site-meta">       
         <div class="site-title">
           
-            <a href="/" class="">
-              <span class="logo-line-before">
-                <i class=""></i>
-              </span>
-              <span class="main-title">Adoli</span>
-              <span class="logo-line-after">
-                <i class=""></i>
-              </span>
+            <a href="/" class="brand">
+              <span>Adoli</span>
             </a>  
           
         </div>
@@ -63,8 +57,6 @@
         <ul id="nav_ul">
           
             
-            
-              
             
             <li class="nav-item ">
               
@@ -77,8 +69,6 @@
           
             
             
-              
-            
             <li class="nav-item nav-item-active">
               
               
@@ -89,8 +79,6 @@
             </li>
           
             
-            
-              
             
             <li class="nav-item ">
               
@@ -103,8 +91,6 @@
           
             
             
-              
-            
             <li class="nav-item ">
               
               
@@ -114,16 +100,6 @@
               
             </li>
           
-          
-            
-              <li class="nav-item ">
-                <a href="/friends" target="_self">
-                  
-                    fa-ship友情链接
-                  
-                </a>
-              </li>
-            
           
         </ul>
       </nav>
@@ -155,11 +131,11 @@
     </div>
     <div class="main-continer">
       
-      <div class="section-layout bg-color mist">
+      <div class="section-layout  ">
         <div class="section-layout-wrapper">
           <div id="sidebarMeta" class="sidebar">
     
-<div class="sidebar-wrapper box-shadow-wrapper ">
+<div class="sidebar-wrapper box-shadow-wrapper bg-color">
   <div class="sidebar-item">
     <img class="site-author-image right-motion" src="/images/avatar.png"/>
     <p class="site-author-name">Adoli</p>
@@ -187,6 +163,13 @@
     </div>
   </div>
   
+    
+      <div class="sidebar-item" style="border-top: 1px dotted #ccc; margin-top: 10px;">
+      </div>
+    
+  
+  
+
   
 
 
@@ -194,7 +177,7 @@
 </div>
 <script>
   let sidebarMeta = document.querySelector('#sidebarMeta');
-  let scheme = 'mist';
+  let scheme = '';
   let sidebarWrapper = document.querySelector('.sidebar-wrapper');
   if (sidebarMeta && (scheme === 'pisces' || scheme === 'gemini')) {
     document.addEventListener('scroll', function(e) {
@@ -270,18 +253,19 @@
   </footer>
   
   
-    <div class="drawer-box left" id="drawer_box">
-      <span class="muse-line muse-line-first"></span>
-      <span class="muse-line muse-line-middle"></span>
-      <span class="muse-line muse-line-last"></span>
-    </div>
-  
-  <div class="mist back-to-top" id="back_to_top">
+  <div class=" back-to-top" id="back_to_top">
     <i class="fa fa-arrow-up"></i>
+    
+    <span class="scrollpercent">
+      <span id="back_to_top_text">0</span>%
+    </span>
     
   </div>
   
   
+  
+    
+
   
 </div>
 <script>
