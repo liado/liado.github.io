@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://liaduo.github.io</id>
+    <id>https://liado.github.io</id>
     <title>Adoli</title>
-    <updated>2020-04-07T12:33:54.526Z</updated>
+    <updated>2020-04-07T17:07:49.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://liaduo.github.io"/>
-    <link rel="self" href="https://liaduo.github.io/atom.xml"/>
+    <link rel="alternate" href="https://liado.github.io"/>
+    <link rel="self" href="https://liado.github.io/atom.xml"/>
     <subtitle>学而时习之，不亦说乎！</subtitle>
-    <logo>https://liaduo.github.io/images/avatar.png</logo>
-    <icon>https://liaduo.github.io/favicon.ico</icon>
+    <logo>https://liado.github.io/images/avatar.png</logo>
+    <icon>https://liado.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Adoli</rights>
     <entry>
         <title type="html"><![CDATA[Hello!欢迎来到Adoli的博客。]]></title>
-        <id>https://liaduo.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/</id>
-        <link href="https://liaduo.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/">
+        <id>https://liado.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/</id>
+        <link href="https://liado.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/">
         </link>
         <updated>2020-04-06T11:40:49.000Z</updated>
     </entry>
