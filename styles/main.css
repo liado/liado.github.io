@@ -861,3 +861,28 @@ pre code {
     margin-top: 5px;
   }
 }
+
+      .posttitlewithoutimg {
+        color: #212529;
+      }
+    
+      .sitename {
+        color: #e03131;
+      }
+    
+        .describtion {
+          color: #212529;
+        }
+      
+        .menubutton {
+          color: #e03131;
+        }
+      
+        .posttitle {
+          color: #212529;
+        }
+      
+        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
+          color: #212529;
+        }
+      
