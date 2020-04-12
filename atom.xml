@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liado.github.io</id>
     <title>Adoli</title>
-    <updated>2020-04-12T06:17:50.884Z</updated>
+    <updated>2020-04-12T06:46:13.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liado.github.io"/>
     <link rel="self" href="https://liado.github.io/atom.xml"/>
@@ -12,29 +12,29 @@
     <rights>All rights reserved 2020, Adoli</rights>
     <entry>
         <title type="html"><![CDATA[下载工具]]></title>
-        <id>https://liado.github.io/post/xia-zai-gong-ju/</id>
-        <link href="https://liado.github.io/post/xia-zai-gong-ju/">
+        <id>https://liado.github.io/post/xzgj/</id>
+        <link href="https://liado.github.io/post/xzgj/">
         </link>
         <updated>2020-04-09T15:35:44.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[幸福感]]></title>
-        <id>https://liado.github.io/post/xing-fu-gan/</id>
-        <link href="https://liado.github.io/post/xing-fu-gan/">
+        <id>https://liado.github.io/post/xfg/</id>
+        <link href="https://liado.github.io/post/xfg/">
         </link>
         <updated>2020-04-09T08:21:08.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[小白建网站：Gridea和Github搭配很香]]></title>
-        <id>https://liado.github.io/post/xiao-bai-jian-wang-zhan-gridea-he-github-da-pei-hen-xiang/</id>
-        <link href="https://liado.github.io/post/xiao-bai-jian-wang-zhan-gridea-he-github-da-pei-hen-xiang/">
+        <id>https://liado.github.io/post/xbjwz/</id>
+        <link href="https://liado.github.io/post/xbjwz/">
         </link>
         <updated>2020-04-08T06:44:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello!欢迎来到Adoli的博客。]]></title>
-        <id>https://liado.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/</id>
-        <link href="https://liado.github.io/post/hellohuan-ying-lai-dao-adoli-de-bo-ke/">
+        <id>https://liado.github.io/post/hy/</id>
+        <link href="https://liado.github.io/post/hy/">
         </link>
         <updated>2020-04-06T11:40:49.000Z</updated>
     </entry>
