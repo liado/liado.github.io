@@ -2098,6 +2098,8 @@ body {
     }
     .mist .site-title i {
       background: #FFFFFFfe;
+    }.box-scale > #landlord {
+      transform: scale([0.25]);
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }
