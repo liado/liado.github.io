@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liado.github.io</id>
+    <title>Adoli</title>
+    <updated>2023-02-07T07:49:16.138Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liado.github.io"/>
+    <link rel="self" href="https://liado.github.io/atom.xml"/>
+    <subtitle>学而时习之，不亦说乎！</subtitle>
+    <logo>https://liado.github.io/images/avatar.png</logo>
+    <icon>https://liado.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Adoli</rights>
+    <entry>
+        <title type="html"><![CDATA[CHATGPT注册]]></title>
+        <id>https://liado.github.io/post/chatgpt-zhu-ce/</id>
+        <link href="https://liado.github.io/post/chatgpt-zhu-ce/">
+        </link>
+        <updated>2023-02-07T06:53:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海外邮箱]]></title>
+        <id>https://liado.github.io/post/hai-wai-you-xiang/</id>
+        <link href="https://liado.github.io/post/hai-wai-you-xiang/">
+        </link>
+        <updated>2020-06-15T08:09:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国外虚拟免费电话汇集-无需注册在线接收验证短信]]></title>
+        <id>https://liado.github.io/post/guo-wai-xu-ni-mian-fei-dian-hua-hui-ji-wu-xu-zhu-ce-zai-xian-jie-shou-yan-zheng-duan-xin/</id>
+        <link href="https://liado.github.io/post/guo-wai-xu-ni-mian-fei-dian-hua-hui-ji-wu-xu-zhu-ce-zai-xian-jie-shou-yan-zheng-duan-xin/">
+        </link>
+        <updated>2020-06-15T08:06:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桌面端软件]]></title>
+        <id>https://liado.github.io/post/zmdrj/</id>
+        <link href="https://liado.github.io/post/zmdrj/">
+        </link>
+        <updated>2020-04-14T12:39:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下载工具]]></title>
+        <id>https://liado.github.io/post/xzgj/</id>
+        <link href="https://liado.github.io/post/xzgj/">
+        </link>
+        <updated>2020-04-09T15:35:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幸福感]]></title>
+        <id>https://liado.github.io/post/xfg/</id>
+        <link href="https://liado.github.io/post/xfg/">
+        </link>
+        <updated>2020-04-09T08:21:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小白建网站：Gridea和Github搭配很香]]></title>
+        <id>https://liado.github.io/post/xbjwz/</id>
+        <link href="https://liado.github.io/post/xbjwz/">
+        </link>
+        <updated>2020-04-08T06:44:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello!欢迎来到Adoli的博客。]]></title>
+        <id>https://liado.github.io/post/hy/</id>
+        <link href="https://liado.github.io/post/hy/">
+        </link>
+        <updated>2020-04-06T11:40:49.000Z</updated>
+    </entry>
+</feed>
